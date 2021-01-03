@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local
+.DS_Store
+.idea/
+Products & Services/
+google-cloud-icons.zip
+*.iml
